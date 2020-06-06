@@ -1,4 +1,5 @@
 build_log
+build_log_de
 *.acn
 *.acr
 *.alg
@@ -7,6 +8,7 @@ build_log
 *.blg
 *.dvi
 *.fdb_latexmk
+*.fls
 *.glg
 *.glo
 *.gls
